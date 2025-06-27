@@ -1,7 +1,10 @@
-challenges-hacker-rank
+<h1>Desafios HackerRank</h1>
 
-Este repositório reúne soluções de desafios realizados na plataforma HackerRank, com o objetivo de praticar lógica de programação, algoritmos, estrutura de dados e manipulação de dados.
+<p>Este repositório reúne soluções de desafios realizados na plataforma HackerRank, com o objetivo de praticar lógica de programação, algoritmos, estrutura de dados e manipulação de dados.</p>
 
-Atualmente, as soluções estão organizadas por linguagem:
-    Python 🐍
-    SQL 🧠
+<p>Atualmente, as soluções estão organizadas por linguagem:
+    <ul>
+        <li>Python 🐍</li>
+        <li>SQL 🧠</li>
+    </ul>
+</p>    
